@@ -2,7 +2,7 @@
 
 Analysis of 5,000 emergency room visits across five hospitals in 2024, and a machine learning model that estimates a patient's total wait using only information available when they arrive.
 
-**Live demo:** LIVE_DEMO_URL
+**Live demo:** https://mq-er-wait-time-prediction.streamlit.app/
 
 ![Wait by stage](reports/figures/wait_by_stage.png)
 
