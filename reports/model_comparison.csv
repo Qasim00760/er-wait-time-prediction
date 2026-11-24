@@ -1,0 +1,5 @@
+model,MAE,RMSE,R2,CV_R2_mean,CV_R2_std
+Baseline (always predict the mean),54.694,68.207,-0.0,-0.001,0.001
+Linear Regression,17.871,24.717,0.869,0.875,0.004
+Random Forest,12.062,17.85,0.932,0.933,0.004
+Gradient Boosting,11.461,16.983,0.938,0.938,0.004

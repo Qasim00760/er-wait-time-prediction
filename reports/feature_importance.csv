@@ -1,0 +1,11 @@
+feature,MAE_increase_min
+Urgency Level,51.62
+Time of Day,9.38
+Season,8.35
+Day of Week,6.06
+Nurse-to-Patient Ratio,2.54
+Facility Size (Beds),0.14
+Hour,0.09
+Region,0.0
+Hospital Name,-0.01
+Specialist Availability,-0.05
